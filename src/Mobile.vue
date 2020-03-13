@@ -25,7 +25,7 @@
           `/*
 * Inspired by http://strml.net/
 * 源码地址 https://github.com/sitexa/anires
-* 大家好，我是南方。
+* 大家好，我是傻逼。
 * 我来写一份简历！
 */
 
@@ -123,9 +123,9 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `南方
+        fullMarkdown: `傻逼
 ====
-坐标：湖南长沙。
+坐标：湖南。
 
 资深软件工程师，资深产品经理，高级项目经理。现为自由职业。
 
@@ -213,14 +213,14 @@ html{
 
 * [GitHub](https://github.com/sitexa)
 * [技术博客](http://www.sitexa.org)
-* [南方时代](http://www.sitexa.net)
+* [傻逼时代](http://www.sitexa.net)
 * [神秘湘鄂西](http://www.sitexa.cn)
 * [我的简历故事(程序人生公众号文章)](https://mp.weixin.qq.com/s/5rsB956EPVm0FoFOe6xYTg)
 
 勾引方式
 ====
 
-* 微信：xnpeng
+* 微信：xxxxxx
 
 鸣谢
 ----
